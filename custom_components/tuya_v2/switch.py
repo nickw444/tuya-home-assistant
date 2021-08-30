@@ -31,8 +31,9 @@ TUYA_SUPPORT_TYPE = {
     "dlq",  # Breaker
     "tdq", # Breaker
     "cwysj",  # Pet Water Feeder
-    "kj",  # Air Purifier
-    "xxj",  # Diffuser
+    "kj",     # Air Purifier
+    "xxj",    # Diffuser
+    "mzj",    # Sous Vide Cooker
     "ckmkzq",  # Garage Door Opener
     "zndb",  # Smart Electricity Meter
     "fs",  # Fan

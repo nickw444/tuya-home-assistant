@@ -26,6 +26,7 @@ TUYA_SUPPORT_TYPE = {
     "xxj", # Diffuser
     "kfj", # Coffee Maker
     "sd",  # Vacuum Robot
+    "mzj",    # Sous Vide Cooker
 }
 
 DPCODE_MODE = "mode"
